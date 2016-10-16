@@ -1,0 +1,4 @@
+# all files in folders named bin are ignored
+bin/*
+# all files in folders named obj are ignored
+obj/*
